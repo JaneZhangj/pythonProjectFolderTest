@@ -47,4 +47,3 @@ if __name__ == '__main__':
     # for item in str:
     #     print(item)
     egg_tric()
-    print("测试添加4444")
